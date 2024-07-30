@@ -6,7 +6,7 @@ const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=e900f0d8';
 function Home() {
   return (
     <h1>
-      Please choose algorithm
+      Please choose algorithm to visualize
     </h1>
   )
 }

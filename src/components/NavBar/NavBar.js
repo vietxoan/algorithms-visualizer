@@ -12,7 +12,7 @@ function NavBar() {
             Algorithms Visualizer
           </Link>
           <ul>
-            <CustomLink to={"/Category"}>Category</CustomLink>
+            <CustomLink to={"/SortingVisualizer"}>Sorting</CustomLink>
             <CustomLink to={"/About"}>About</CustomLink>
           </ul>
         </nav>

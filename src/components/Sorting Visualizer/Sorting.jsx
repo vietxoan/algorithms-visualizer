@@ -449,9 +449,9 @@ export default class SortingVisualizer extends React.Component{
                 <button onClick={() => this.insertionSort()}>Insertion Sort</button>
                 <button onClick={() => this.quickSort()}>Quick Sort</button>
                 <button onClick={() => this.heapSort()}>Heap Sort</button>
-                <button onClick={() => this.testSortingAlgorithms()}>
+                {/* <button onClick={() => this.testSortingAlgorithms()}>
                   Test Sorting Algorithms 
-                </button>
+                </button> */}
               </div>
               <div className="input-container">
                 <p>Number of bars (2-450): </p>
